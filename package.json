@@ -1,0 +1,19 @@
+{
+  "name": "javascript-challenge",
+  "version": "1.0.0",
+  "description": "Learn Javascript ",
+  "main": "1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/setiawanswan/Javascript-Challenge.git"
+  },
+  "author": "setiawanswan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/setiawanswan/Javascript-Challenge/issues"
+  },
+  "homepage": "https://github.com/setiawanswan/Javascript-Challenge#readme"
+}
